@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="800" viewBox="0 0 800 800">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#78350f"/><stop offset="1" stop-color="#a16207"/></linearGradient></defs>
+<rect width="800" height="800" fill="url(#g)"/>
+<circle cx="640" cy="160" r="120" fill="#ffffff" opacity=".12"/><circle cx="140" cy="680" r="170" fill="#ffffff" opacity=".10"/>
+<text x="400" y="440" font-size="300" text-anchor="middle" font-family="Noto Color Emoji, Apple Color Emoji, Segoe UI Emoji, sans-serif">☕</text>
+<text x="400" y="640" font-size="44" font-weight="700" text-anchor="middle" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" opacity=".9">HOGAR</text>
+</svg>
