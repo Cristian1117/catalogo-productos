@@ -1,0 +1,8 @@
+.inp{display:block;width:100%;border-radius:.6rem;border:1px solid #cbd5e1;background:#fff;padding:.5rem .75rem;font-size:.9rem;outline:none}
+.inp:focus{border-color:#10b981;box-shadow:0 0 0 3px rgba(16,185,129,.2)}
+.lbl{display:block;font-size:.8rem;font-weight:600;color:#475569;margin-bottom:.25rem}
+.hint{font-size:.72rem;color:#94a3b8;margin-top:.25rem}
+.btn-primary{display:inline-flex;align-items:center;justify-content:center;background:#059669;color:#fff;font-weight:600;font-size:.9rem;padding:.55rem 1rem;border-radius:.6rem}
+.btn-primary:hover{background:#047857}
+.btn-secondary{display:inline-flex;align-items:center;background:#e2e8f0;color:#1e293b;font-weight:600;font-size:.9rem;padding:.55rem 1rem;border-radius:.6rem}
+.badge{display:inline-block;font-size:.7rem;font-weight:700;padding:.15rem .5rem;border-radius:9999px}
